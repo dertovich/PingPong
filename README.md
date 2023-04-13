@@ -1,5 +1,8 @@
 # PingPong
 
+#### **Description**
+A two-player game. The goal of each player is to kick the ball so that the other player cannot kick it. Scoring up to 3 balls scored
+
 #### **Class** 
   * **Main** - entry point of the whole program
   * **FramePingPong** - specifying parameters of the game field (color, size, title)
