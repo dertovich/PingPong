@@ -4,10 +4,10 @@
 A two-player game. The goal of each player is to kick the ball so that the other player cannot kick it. Scoring up to 3 balls scored
 
 #### **Controls** 
-  Blue racket:
+  🔵Blue🔵 racket:
    * **W/S/A/D** - Forward/Backward/Left/Right
    
-  Red racket:
+  🔴Red🔴 racket:
    * **↑/↓/←/→** - Forward/Backward/Left/Right
 
 #### **Class** 
