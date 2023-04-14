@@ -5,10 +5,10 @@ A two-player game. The goal of each player is to kick the ball so that the other
 
 #### **Controls** 
   🔵Blue🔵 racket:
-   * **W/S/A/D** - Forward/Backward/Left/Right
+   * **W/S** - Forward/Backward
    
   🔴Red🔴 racket:
-   * **↑/↓/←/→** - Forward/Backward/Left/Right
+   * **↑/↓** - Forward/Backward
 
 #### **Class** 
   * **Main** - entry point of the whole program
